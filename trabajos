@@ -1,0 +1,52 @@
+{
+	"data": [{
+			"nombre": "Desarrollador@ web vue",
+			"info": "Necesitamos un experto desarrollador para incorporarlo a un equipo de programadores web y llevar a cabo numerosos proyectos.",
+			"Salario": "20.00€/anuales",
+			"Localidad": "Castellón"
+		},
+		{
+			"nombre": "Programador@ Java EE y Java",
+			"info": "Necesitamos gente muuuuuuy valiente que se atreva a trabajar de programador con experiencia en...Java.",
+			"Salario": "24.00€/anuales",
+			"Localidad": "Burriana"
+		},
+		{
+			"nombre": "Diseñador@ gráfico",
+			"info": "Queremos contratar a personas con una visión artística del mundo. Y que sepa combinar colores por favor.",
+			"Salario": "19.00€/anuales",
+			"Localidad": "Valencia"
+		},
+		{
+			"nombre": "Administrador@ de redes",
+			"info": "Quedan 2 vacantes para nuestra empresa, necesitamos de dos administradores en redes para desmontar la actual e implementar la nueva infraestructura.",
+			"Salario": "22.00€/anuales",
+			"Localidad": "Castellón"
+		},
+		{
+			"nombre": "Ilustrador@",
+			"info": "Se busca empleado con grado superior de ilustración para bocetos, ilustraciones, proyectos, diseño de personajes, modelos...",
+			"Salario": "18.00€/anuales",
+			"Localidad": "Castellón"
+		},
+		{
+			"nombre": "Enfermero@",
+			"info": "Necesitamos URGENTEMENTE adquirir a una persona en enfermeria, se esta muriendo!!!",
+			"Salario": "23.00€/anuales",
+			"Localidad": "Valencia"
+		},
+		{
+			"nombre": "Mozo@ de almacén",
+			"info": "Alquien con los brazos fuertotes para levantar cajas con la espalda, y con experiencia en elevador.",
+			"Salario": "14.00€/anuales",
+			"Localidad": "Valencia"
+		}, 
+    
+    {
+			"nombre": "Desarrollador@ Multiplataforma",
+			"info": "Buscamos un super informático capaz de crear cualquier aplicación en cualquier entorno con cualquier herramienta.",
+			"Salario": "30.00€/anuales",
+			"Localidad": "Castellón"
+		}
+	]
+}
